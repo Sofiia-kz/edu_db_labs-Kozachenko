@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/edu_db_labs-IO-z11-Kozachenko/',
+  base: '/edu_db_labs-Kozachenko/',
   theme: 'cool',
   // dest: 'dist',
   head: [
